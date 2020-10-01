@@ -39,11 +39,13 @@ dict2={'Class':'six'}
 dict.update(dict2)
 
 
-#Sets
+#Sets 
 
 sets1=set(["a", "b", "c"])
 #add
-sets1.add('rr')
+sets1.add('d')
+#print
+print(sets1)
 #set2
 sets2=set(["e"])
 #intersection
